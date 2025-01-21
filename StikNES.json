@@ -9,7 +9,9 @@
       "localizedDescription": "StikNES is a SwiftUI-based NES emulator designed for iOS devices. It leverages the power of SwiftUI to deliver a clean, modern interface while emulating the classic NES gaming experience using the nes-rust library.",
       "name": "StikNES",
        "screenshotURLs": [
-        "https://github.com/StikEMU/StikNES-Site/blob/main/Website/screenshot1.PNG?raw=true"
+        "https://github.com/StikEMU/StikNES-Site/blob/main/Website/screenshot1.PNG?raw=true",
+        "https://github.com/StikEMU/StikNES-Site/blob/main/Website/screenshot3.PNG?raw=true",
+        "https://github.com/StikEMU/StikNES-Site/blob/main/Website/screenshot4.png?raw=true"
       ],
       "size": 400000,
       "subtitle": "SwiftUI NES Emulator for iOS",
