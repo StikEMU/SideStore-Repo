@@ -13,7 +13,7 @@
       ],
       "size": 400000,
       "subtitle": "SwiftUI NES Emulator for iOS",
-      "tintColor": "87CEEB",
+      "tintColor": "293B45",
       "version": "2.0.0",
       "versionDate": "2025-03-01T14:00:00-07:00",
       "versionDescription": " Fix B button functionality to improve gameplay accuracy.\n Add controller support for a more authentic gaming experience.\n Perform extensive testing to ensure stability and reliability."
@@ -29,7 +29,7 @@
       "identifier": "stiknes-coming-soon",
       "imageURL": "https://raw.githubusercontent.com/neoarz/SideStore-Repo/main/Assets/Banner.png",
       "notify": false,
-      "tintColor": "87CEEB",
+      "tintColor": "293B45",
       "title": "StikNES Coming to Sidestore!"
     }
   ],
