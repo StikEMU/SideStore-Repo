@@ -1,0 +1,39 @@
+{
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.stik.StikNES",
+      "developerName": "StikNES Team",
+      "downloadURL": "https://stiknes.com/",
+      "iconURL": "https://raw.githubusercontent.com/StikEMU/StikNES-Site/main/Website/logo.png",
+      "localizedDescription": "StikNES is a SwiftUI-based NES emulator designed for iOS devices. It leverages the power of SwiftUI to deliver a clean, modern interface while emulating the classic NES gaming experience using the nes-rust library.",
+      "name": "StikNES",
+       "screenshotURLs": [
+        "https://github.com/StikEMU/StikNES-Site/blob/main/Website/screenshot1.PNG?raw=true",
+        "https://github.com/StikEMU/StikNES-Site/blob/main/Website/screenshot3.PNG?raw=true",
+        "https://github.com/StikEMU/StikNES-Site/blob/main/Website/screenshot4.png?raw=true"
+      ],
+      "size": 400000,
+      "subtitle": "SwiftUI NES Emulator for iOS",
+      "tintColor": "293B45",
+      "version": "2.0.0",
+      "versionDate": "2025-03-01T14:00:00-07:00",
+      "versionDescription": " Fix B button functionality to improve gameplay accuracy.\n Add controller support for a more authentic gaming experience.\n Perform extensive testing to ensure stability and reliability."
+    }
+  ],
+  "identifier": "com.stik.StikNES",
+  "name": "StikNES Repository",
+  "news": [
+    {
+      "appID": "com.stik.StikNES",
+      "caption": "SwiftUI NES Emulator for iOS",
+      "date": "2025-03-01",
+      "identifier": "stiknes-coming-soon",
+      "imageURL": "https://raw.githubusercontent.com/neoarz/SideStore-Repo/main/Assets/Banner.png",
+      "notify": false,
+      "tintColor": "293B45",
+      "title": "StikNES Coming to Sidestore!"
+    }
+  ],
+  "userInfo": {}
+}
